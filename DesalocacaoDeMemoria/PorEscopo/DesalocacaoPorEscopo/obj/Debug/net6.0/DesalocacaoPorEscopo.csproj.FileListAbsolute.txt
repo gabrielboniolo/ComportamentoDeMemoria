@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Seção 6\Projetos\ComportamentoDeMemoria\DesalocacaoPorEscopo\bin\Debug\net6.0\DesalocacaoPorEscopo.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Seção 6\Projetos\ComportamentoDeMemoria\DesalocacaoPorEscopo\bin\Debug\net6.0\DesalocacaoPorEscopo.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Seção 6\Projetos\ComportamentoDeMemoria\DesalocacaoPorEscopo\bin\Debug\net6.0\DesalocacaoPorEscopo.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Seção 6\Projetos\ComportamentoDeMemoria\DesalocacaoPorEscopo\bin\Debug\net6.0\DesalocacaoPorEscopo.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Seção 6\Projetos\ComportamentoDeMemoria\DesalocacaoPorEscopo\bin\Debug\net6.0\DesalocacaoPorEscopo.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Seção 6\Projetos\ComportamentoDeMemoria\DesalocacaoPorEscopo\obj\Debug\net6.0\DesalocacaoPorEscopo.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Seção 6\Projetos\ComportamentoDeMemoria\DesalocacaoPorEscopo\obj\Debug\net6.0\DesalocacaoPorEscopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Seção 6\Projetos\ComportamentoDeMemoria\DesalocacaoPorEscopo\obj\Debug\net6.0\DesalocacaoPorEscopo.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Seção 6\Projetos\ComportamentoDeMemoria\DesalocacaoPorEscopo\obj\Debug\net6.0\DesalocacaoPorEscopo.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Seção 6\Projetos\ComportamentoDeMemoria\DesalocacaoPorEscopo\obj\Debug\net6.0\DesalocacaoPorEscopo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Seção 6\Projetos\ComportamentoDeMemoria\DesalocacaoPorEscopo\obj\Debug\net6.0\DesalocacaoPorEscopo.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Seção 6\Projetos\ComportamentoDeMemoria\DesalocacaoPorEscopo\obj\Debug\net6.0\refint\DesalocacaoPorEscopo.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Seção 6\Projetos\ComportamentoDeMemoria\DesalocacaoPorEscopo\obj\Debug\net6.0\DesalocacaoPorEscopo.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Seção 6\Projetos\ComportamentoDeMemoria\DesalocacaoPorEscopo\obj\Debug\net6.0\DesalocacaoPorEscopo.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Seção 6\Projetos\ComportamentoDeMemoria\DesalocacaoPorEscopo\obj\Debug\net6.0\ref\DesalocacaoPorEscopo.dll
